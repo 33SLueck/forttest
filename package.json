@@ -46,7 +46,7 @@
   "license": "MIT",
   "devDependencies": {
     "@commitlint/cli": "^19.8.1",
-    "@commitlint/config-conventional": "^19.8.1",
+    "@commitlint/config-conventional": "^20.0.0",
     "commitizen": "^4.3.1",
     "concurrently": "^9.0.1",
     "cz-conventional-changelog": "^3.3.0",
